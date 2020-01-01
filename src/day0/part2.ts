@@ -1,5 +1,3 @@
-//part 2git
+//part 2
 import readFromFile from '../read'
-let input = readFromFile('input.txt')
-let lines = input.split('\n')
-let chars = input.split('')
+const [lines, chars] = readFromFile('input.txt')

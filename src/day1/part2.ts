@@ -1,6 +1,6 @@
 //part 2git
 import readFromFile from '../read'
-const [lines, chars] = readFromFile('input.txt')
+const { lines } = readFromFile('input.txt')
 function calcFuel(fuel: number): number {
     let amount = Math.floor(fuel / 3) - 2
     if (amount <= 0) {

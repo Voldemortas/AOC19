@@ -9,4 +9,6 @@ https://adventofcode.com/2019
 -   [day5]() (0/2)
 -   [day6](src/day6) (2/2)
 -   [day7]() (0/2)
--   [day8]() (2/2)
+-   [day8](src/day8) (2/2)
+-   [day9]() (2/2)
+-   [day10](src/day10) (2/2)
